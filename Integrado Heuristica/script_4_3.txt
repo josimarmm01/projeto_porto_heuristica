@@ -1,0 +1,8 @@
+
+./saida01 entrada/4_3/1.txt entrada/4_3/2.txt entrada/4_3/3.txt entrada/4_3/4.txt entrada/4_3/5.txt entrada/4_3/6.txt entrada/4_3/7.txt entrada/4_3/8.txt entrada/4_3/9.txt entrada/4_3/10.txt
+
+./saida01 entrada/4_3/11.txt entrada/4_3/12.txt entrada/4_3/13.txt entrada/4_3/14.txt entrada/4_3/16.txt entrada/4_3/17.txt entrada/4_3/18.txt
+
+./saida01 entrada/4_3/21.txt entrada/4_3/22.txt entrada/4_3/23.txt entrada/4_3/24.txt entrada/4_3/25.txt entrada/4_3/26.txt entrada/4_3/27.txt entrada/4_3/28.txt entrada/4_3/30.txt
+
+./saida01 entrada/4_3/31.txt entrada/4_3/32.txt entrada/4_3/33.txt entrada/4_3/34.txt entrada/4_3/35.txt entrada/4_3/37.txt entrada/4_3/38.txt entrada/4_3/39.txt entrada/4_3/40.txt
